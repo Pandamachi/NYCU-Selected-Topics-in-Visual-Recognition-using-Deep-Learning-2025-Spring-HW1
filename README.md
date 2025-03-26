@@ -10,7 +10,7 @@ In this homework, I employ deep learning techniques to classify images into 100 
 ## How to install
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Performance snapshot
 ![Leaderboard](leaderboard.png)
