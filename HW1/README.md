@@ -12,5 +12,12 @@ In this homework, I employ deep learning techniques to classify images into 100 
 pip install -r requirements.txt
 ```
 
-## Performance snapshot
+## How to Run
+```bash
+python training_data_num.py
+
+python 110550097_hw1.py
+```
+
+## Performance Snapshot
 ![Leaderboard](leaderboard.png)
