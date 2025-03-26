@@ -2,7 +2,7 @@ import os
 import matplotlib.pyplot as plt
 
 # Set the path to your train folder
-train_dir = "./data./train"
+train_dir = "./data/train"
 
 # Dictionary to store image counts
 image_counts = {}
