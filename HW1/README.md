@@ -8,6 +8,9 @@
 In this homework, I employ deep learning techniques to classify images into 100 categories. Using ResNeXt50 as the model and try different loss functions to get the best prediction result.
 
 ## How to install
+
+Make sure the python version is 3.11
+
 ```bash
 pip install -r requirements.txt
 ```
