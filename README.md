@@ -10,3 +10,4 @@ In this homework, I employ deep learning techniques to classify images into 100 
 pip install -r requirements.txt
 
 ## Performance snapshot
+![Leaderboard](leaderboard.png)
