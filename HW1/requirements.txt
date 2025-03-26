@@ -1,0 +1,8 @@
+torch
+torchvision
+pandas
+Pillow
+tqdm
+numpy==1.23
+seaborn
+matplotlib
